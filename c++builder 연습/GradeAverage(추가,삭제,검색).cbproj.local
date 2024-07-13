@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/11 06:03:44.000.190,=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/07/11 06:03:44.000.167,=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/13 02:54:38.182,=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/13 02:54:38.219,=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/07/13 05:28:51.200,C:\c++builder 연습\GradeAverage(추가,삭제,검색)PCH1.h=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/07/13 05:28:51.248,C:\c++builder 연습\Unit1.cpp=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/07/13 05:28:51.248,C:\c++builder 연습\Unit1.h=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/07/13 05:28:51.248,C:\c++builder 연습\Unit1.dfm=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/13 05:28:51.269,C:\c++builder 연습\GradeAverage(추가,삭제,검색).cbproj=C:\Users\chloe\OneDrive\문서\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
